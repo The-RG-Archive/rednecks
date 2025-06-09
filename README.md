@@ -1,2 +1,2 @@
 # rednecks
-rednecks hickmail web
+## website: https://the-rg-archive.github.io/rednecks/rednecks.html
